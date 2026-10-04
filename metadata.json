@@ -1,0 +1,6 @@
+{
+  "name": "ChronosEarth: The Epic History of Earth & Life",
+  "description": "An interactive, animated voyage across 13.8 billion years of Earth's history from the Big Bang to human evolution, featuring interactive simulations, quizzes, daily progress analytics, and leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
